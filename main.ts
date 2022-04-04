@@ -4,6 +4,7 @@ input.onButtonPressed(Button.A, function () {
 let magnet = 0
 magnet = 0
 radio.setGroup(1)
+basic.clearScreen()
 basic.forever(function () {
     magnet = input.magneticForce(Dimension.Strength)
     if (magnet < 400) {
