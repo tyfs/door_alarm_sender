@@ -1,5 +1,5 @@
 
-> Open this page at [https://tyfs.github.io/door_alarm_sender/](https://tyfs.github.io/microbit_door_alarm_sender/)
+> Open this page at [https://tyfs.github.io/microbit_door_alarm_sender/](https://tyfs.github.io/microbit_door_alarm_sender/)
 
 ## Use as Extension
 
